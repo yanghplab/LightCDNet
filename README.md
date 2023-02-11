@@ -3,9 +3,19 @@ The implementation for [A Lightweight Siamese Neural Network for Building Change
 # Requirements
 Python 3.6
 # Dataset
+## original sources
 [LEVIR-CD](https://justchenhao.github.io/LEVIR/)
 
 [WHU-CD](http://gpcv.whu.edu.cn/data/building_dataset.html)
+## image pairs with 256 × 256 pixels using in the paper
+**LEVIRCD**
+
+Baidu Cloud: https://pan.baidu.com/s/15fpv_aFf31x1YVdCExnKYA (code: 6dmz)
+
+**WHUCD**
+
+Baidu Cloud:https://pan.baidu.com/s/1A2iYGRuq1aVJrsz3TK1KGw (code: rh54)
+
 # Citation
 **MDPI and ACS Style**
 

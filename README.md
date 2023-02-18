@@ -3,7 +3,8 @@ The implementation for [A Lightweight Siamese Neural Network for Building Change
 
 Codes and datasets are for noncommercial use only.
 # Requirements
-Python 3.6
+Python 3.6 
+torch ==1.9.0 torchvision==0.10.0
 # Dataset
 ## original sources
 [LEVIR-CD](https://justchenhao.github.io/LEVIR/)

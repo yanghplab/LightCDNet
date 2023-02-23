@@ -1,7 +1,7 @@
 # LightCDNet
 The implementation for [A Lightweight Siamese Neural Network for Building Change Detection Using Remote Sensing Images](https://www.mdpi.com/2072-4292/15/4/928), [PDF Version](https://www.mdpi.com/2072-4292/15/4/928/pdf).
 
-Codes and datasets are for noncommercial use only.
+Codes are for noncommercial use only. For commercial use, please contact us.
 # Requirements
 Python 3.6 
 torch ==1.9.0 torchvision==0.10.0
